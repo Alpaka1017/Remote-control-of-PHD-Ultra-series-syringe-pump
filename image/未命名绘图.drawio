@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-31T17:57:44.447Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="vY6KTEZI9SwKxOBjNuwp" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-31T17:58:11.498Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="IHxrf5mM6DUmGenvrmda" version="21.1.2" type="github">
   <diagram name="第 1 页" id="UbuT9_GUXlCiMY3kkdqx">
-    <mxGraphModel dx="1577" dy="843" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="854" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -258,7 +258,7 @@
             <mxPoint x="705" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="onwQynVuCHDmbatYqlRr-19" value="Syringe selected&lt;br&gt;by user" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;" parent="gzvv5Dw7xLMA1HeM4UyV-6" vertex="1">
+        <mxCell id="onwQynVuCHDmbatYqlRr-19" value="Syringe selected&lt;br&gt;by user" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="gzvv5Dw7xLMA1HeM4UyV-6" vertex="1">
           <mxGeometry x="642" y="360" width="125" height="60" as="geometry" />
         </mxCell>
         <mxCell id="onwQynVuCHDmbatYqlRr-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="gzvv5Dw7xLMA1HeM4UyV-6" target="onwQynVuCHDmbatYqlRr-20" edge="1">
@@ -295,7 +295,7 @@
         <mxCell id="onwQynVuCHDmbatYqlRr-40" value="" style="group" parent="gzvv5Dw7xLMA1HeM4UyV-6" vertex="1" connectable="0">
           <mxGeometry x="491" y="355" width="109" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="onwQynVuCHDmbatYqlRr-31" value="" style="triangle;whiteSpace=wrap;html=1;" parent="onwQynVuCHDmbatYqlRr-40" vertex="1">
+        <mxCell id="onwQynVuCHDmbatYqlRr-31" value="" style="triangle;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="onwQynVuCHDmbatYqlRr-40" vertex="1">
           <mxGeometry width="109" height="70" as="geometry" />
         </mxCell>
         <mxCell id="onwQynVuCHDmbatYqlRr-39" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Syringe&amp;nbsp;&lt;br&gt;library&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="onwQynVuCHDmbatYqlRr-40" vertex="1">
